@@ -1,0 +1,475 @@
+[zhoujingjiang@bj05-bs-gmitem01 ~]$ history
+    1  clear
+    2  ls
+    3  mkdir software
+    4  cd software/
+    5  cear
+    6  clear
+    7  ls
+    8  rz
+    9  ls
+   10  cd
+   11  ls
+   12  mkdir software/openresty
+   13  clear
+   14  ls
+   15  tar zxf software/openresty-1.11.2.2rc2.tar.gz 
+   16  clear
+   17  ls
+   18  cd openresty-1.11.2.2rc2/
+   19  clear
+   20  ls
+   21  ./configure --prefix=../software/openresty
+   22  sudo yum install gmake
+   23  sudo yum search gmake
+   24  sudo yum search make
+   25  sudo yum install make
+   26  gmake
+   27  cd
+   28  ls
+   29  cd openresty-1.11.2.2rc2/
+   30  ./configure --prefix=../software/openresty
+   31  sudo yum search cc
+   32  gcc
+   33  sudo yum search gcc
+   34  sudo yum install -y gcc
+   35  cd
+   36  ls
+   37  clear
+   38  ls
+   39  sudo mkdir ~mxsev/software
+   40  sudo mv software/openresty-1.11.2.2rc2.tar.gz ~mxsev/software
+   41  sudo chown mxsev:mxsev -R software/
+   42  sudo chown mxsev:mxsev  software/
+   43  sudo chown mxsev:mxsev  ~mxsev/software/
+   44  sudo chown mxsev:mxsev  ~mxsev/software/ -R
+   45  clear
+   46  ls
+   47  rm -rf *
+   48  sudo rm -rf *
+   49  ls
+   50  clear
+   51  ls
+   52  sudo yum install pcre pcre-devel
+   53  sudo su - mxsev
+   54  sudo yum install -y openssl openssl-devel
+   55  clear
+   56  top
+   57  cd
+   58  sudo /home/mxsev/software/redis/bin/redis-server /home/mxsev/redis-3.2.6/redis.conf
+   59  cd
+   60  clear
+   61  ls
+   62  mkdir rotate_nginx_log.sh
+   63  rm -rf *
+   64  vim rotate_nginx_log.sh
+   65  clear
+   66  ls
+   67  vim rotate_nginx_log.sh 
+   68  which cat
+   69  vim rotate_nginx_log.sh 
+   70  sh rotate_nginx_log.sh 
+   71  vim rotate_nginx_log.sh 
+   72  sh rotate_nginx_log.sh 
+   73  vim rotate_nginx_log.sh 
+   74  vim ~/.vimrc
+   75  vim rotate_nginx_log.sh 
+   76  sh rotate_nginx_log.sh 
+   77  vim rotate_nginx_log.sh 
+   78  sh rotate_nginx_log.sh 
+   79  vim rotate_nginx_log.sh 
+   80  sh rotate_nginx_log.sh 
+   81  vim rotate_nginx_log.sh 
+   82  sh rotate_nginx_log.sh 
+   83  vim rotate_nginx_log.sh 
+   84  sh rotate_nginx_log.sh 
+   85  vim rotate_nginx_log.sh 
+   86  sh rotate_nginx_log.sh 
+   87  vim rotate_nginx_log.sh 
+   88  sh rotate_nginx_log.sh 
+   89  vim rotate_nginx_log.sh 
+   90  sudo sh rotate_nginx_log.sh 
+   91  vim rotate_nginx_log.sh 
+   92  sudo sh rotate_nginx_log.sh 
+   93  vim rotate_nginx_log.sh 
+   94  sudo sh rotate_nginx_log.sh 
+   95  vim rotate_nginx_log.sh 
+   96  sudo sh rotate_nginx_log.sh 
+   97  vim rotate_nginx_log.sh 
+   98  sudo sh rotate_nginx_log.sh 
+   99  vim rotate_nginx_log.sh 
+  100  which mv
+  101  vim rotate_nginx_log.sh 
+  102  which mv
+  103  vim rotate_nginx_log.sh 
+  104  which date
+  105  vim rotate_nginx_log.sh 
+  106  date +"%FT%TZ"`
+  107  date +"%FT%TZ"
+  108  vim rotate_nginx_log.sh 
+  109  clear
+  110  ls
+  111  sudo sh rotate_nginx_log.sh 
+  112  vim rotate_nginx_log.sh 
+  113  which zip
+  114  gzip
+  115  ls
+  116  gip dump.rdb 
+  117  gzip dump.rdb 
+  118  ls
+  119  vim rotate_nginx_log.sh 
+  120  which gzip
+  121  vim rotate_nginx_log.sh 
+  122  which zip
+  123  PATH=$PATH:123213
+  124  which zip
+  125  echo $?
+  126  vim rotate_nginx_log.sh 
+  127  which which
+  128  vim rotate_nginx_log.sh 
+  129  which which
+  130  sudo sh rotate_nginx_log.sh 
+  131  which which
+  132  vim rotate_nginx_log.sh 
+  133  which which
+  134  sudo sh rotate_nginx_log.sh 
+  135  which which
+  136  vim rotate_nginx_log.sh 
+  137  sudo sh rotate_nginx_log.sh 
+  138  vim rotate_nginx_log.sh 
+  139  sudo sh rotate_nginx_log.sh 
+  140  vim rotate_nginx_log.sh 
+  141  sudo sh rotate_nginx_log.sh 
+  142  vim rotate_nginx_log.sh 
+  143  pwd
+  144  which sh
+  145  sudo mv rotate_nginx_log.sh ~mxsev
+  146  sudo su - mxsev
+  147  sudo su - mxsev
+  148  cd
+  149  ls
+  150  sudo su mxsev
+  151  sudo yum install git
+  152  sudo su - mxsev
+  153  sudo /home/mxsev/software/redis/bin/redis-cli -a foobared
+  154  sudo /home/mxsev/software/redis/bin/redis-cli -a foobared -p 6380
+  155  sudo /home/mxsev/software/redis/bin/redis-server /home/mxsev/redis-3.2.6/redis.conf
+  156  sudo /home/mxsev/software/redis/bin/redis-cli -a foobared -p 6380
+  157  sudo /home/mxsev/software/redis/bin/redis-cli -h 10.69.42.61 -a foobared -p 6380
+  158  sudo su -  
+  159  sudo /home/mxsev/software/redis/bin/redis-cli -a foobared -p 6380
+  160  sudo su  -
+  161  sudo su - mxsev
+  162  clear
+  163  ls
+  164  sudo yum search httpd-tools
+  165  sudo yum install -y httpd-tools
+  166  ab -n 100000 -c 50 http://127.0.0.1:8282/v2/address/addressNode?id=420509027
+  167  ab -n 100000 -c 50 http://10.125.2.43:8081/v2/address/addressNode?id=420509027
+  168  clear
+  169  sudo su - mxsev
+  170  sudo yum install screen
+  171  sudo /home/mxsev/software/redis/bin/redis-cli -a foobared -p 6380 -h 10.69.42.61
+  172  sudo /home/mxsev/software/redis/bin/redis-cli -a foobared -p 6380
+  173  sudo su -
+  174  cd
+  175  ls
+  176  cd bs-service-address/
+  177  clear
+  178  ls
+  179  svn st
+  180  cd branches/
+  181  clear
+  182  ls
+  183  cd bs-service-address_bugfix/
+  184  clear
+  185  ls
+  186  git status
+  187  svn status
+  188  svn diff pom.xml
+  189  svn diff src/main/java/com/gomeplus/bs/service/permission/AddressApplication.java
+  190  clear
+  191  ls
+  192  cd ..
+  193  ls
+  194  cd ..
+  195  ls
+  196  svn st
+  197  svn ci -m "add test branch"
+  198  svn up
+  199  sudo su - mxsev
+  200  clear
+  201  ls
+  202  svn co https://svn.gomeo2o.cn:8443/gomeo2o_dev/src/gomeo2o_pro/bs-service-address
+  203  sudo yum install svn
+  204  clear
+  205  ls
+  206  svn co https://svn.gomeo2o.cn:8443/gomeo2o_dev/src/gomeo2o_pro/bs-service-address
+  207  clear
+  208  cd bs-service-address/
+  209  s
+  210  ls
+  211  cd trunk/
+  212  ls
+  213  cd ..
+  214  clear
+  215  ls
+  216  mkdir branches
+  217  svn st
+  218  svn add branches/
+  219  svn ci -m "create `branches` directory"
+  220  svn ci -m "create branches directory"
+  221  svn clean
+  222  svn help
+  223  svn cleanup
+  224  svn ci -m "create branches directory"
+  225  cd
+  226  rm -rf bs-service-address/
+  227  svn co https://svn.gomeo2o.cn:8443/gomeo2o_dev/src/gomeo2o_pro/bs-service-address
+  228  rm -rf .subversion/
+  229  rm -rf bs-service-address/
+  230  svn co https://svn.gomeo2o.cn:8443/gomeo2o_dev/src/gomeo2o_pro/bs-service-address
+  231  cd bs-service-address/
+  232  clear
+  233  ls
+  234  svn up
+  235  ls branches/
+  236  cd branches/
+  237  clear
+  238  ls
+  239  svn cp ../trunk/ _bugfix
+  240  ls
+  241  svn mv _bugfix/ bs-service-address_bugfix/
+  242  svn st
+  243  clear
+  244  ls
+  245  cd bs-service-address_bugfix/
+  246  clear
+  247  ls
+  248  vim pom.xml 
+  249  clear
+  250  ls
+  251  vim pom.xml 
+  252  svn st
+  253  vim pom.xml 
+  254  ls
+  255  vim src/main/java/com/gomeplus/bs/service/permission/AddressApplication.java 
+  256  clear
+  257  ls
+  258  cd
+  259  ls
+  260  ifconfig 
+  261  sudo su - mxsev
+  262  sudo su -mxsev
+  263  sudo su - mxsev
+  264  clear
+  265  cd
+  266  ls
+  267  sudo easy_install futures
+  268  sudo easy_install redis
+  269  easy_install protobuf --user
+  270  python easy_install protobuf
+  271  sudo easy_install protobuf
+  272  ifconfig 
+  273  python easy_install protobuf
+  274  sudo easy_install protobuf
+  275  cd
+  276  ls
+  277  rz -E
+  278  ls
+  279  tar xf extern-0.1.0.tar.gz 
+  280  clear
+  281  ls
+  282  cd extern-0.1.0
+  283  clear
+  284  ls
+  285  sudo python setup.py install
+  286  cd
+  287  sudo easy_install protobuf
+  288  cd
+  289  clear
+  290  ls
+  291  cd
+  292  clear
+  293  ls
+  294  rm -rf extern-0.1.*
+  295  sudo rm -rf extern-0.1.*
+  296  clear
+  297  ls
+  298  rm -rf dump.rdb  dump.rdb.gz
+  299  clear
+  300  ls
+  301  easy_install hybrid --user
+  302  sudo chmod 777 /usr/lib/python2.7/site-packages/protobuf-3.1.0.post1-py2.7.egg/EGG-INFO/namespace_packages.txt
+  303  easy_install hybrid --user
+  304  sudo chmod -R 777 /usr/lib/python2.7/site-packages/protobuf-3.1.0.post1-py2.7.egg/
+  305  easy_install hybrid --user
+  306  easy_install hybrid
+  307  clear
+  308  ls
+  309  python
+  310  PYTHONHOME=/usr/lib/python2.7/site-packages/ PYTHON_HOME=/usr/lib/python2.7/site-packages/ easy_install hybrid --user
+  311   easy_install hybrid --user
+  312  vim build/bdist.linux-x86_64/egg/setuptools/
+  313  clear
+  314  ls
+  315  cd
+  316  sudo easy_install hybrid
+  317  sudo easy_install extern
+  318  which easy_install
+  319  vim /usr/bin/easy_install
+  320  python
+  321  cd /usr/lib/python2.7/site-packages/
+  322  clear
+  323  ls
+  324  cd setuptools
+  325  clear
+  326  ls
+  327  ls command/
+  328  vim command/easy_install.py
+  329  clear
+  330  ls
+  331  grep extern *py
+  332  grep extern *
+  333  vim `which pkg_resource`
+  334  ls
+  335  vim `which easy_install`
+  336  vim `which pkg_resources`
+  337  which pkg_resources
+  338  python
+  339  vim /usr/lib/python2.7/site-packages/pkg_resources.py
+  340  clear
+  341  ls
+  342  easy_install hybrid --user
+  343  ls
+  344  cd ..
+  345  ls
+  346  ls *pth
+  347  vim setuptools.pth 
+  348  ls
+  349  vim setuptools.pth 
+  350  vim easy-install.pth 
+  351  sudo vim easy-install.pth 
+  352  sudo rm -rf *pth *setuptools*
+  353  clear
+  354  ls
+  355  rm -rf easy_install*
+  356  sudo rm -rf easy_install*
+  357  clear
+  358  ls
+  359  rm -rf extern-0.1.0-py2.7.egg 
+  360  sudo rm -rf extern-0.1.0-py2.7.egg 
+  361  clear
+  362  ls
+  363  sudo rm -rf futures-3.0.5-py2.7.egg/
+  364  clear
+  365  ls
+  366  rm -rf protobuf-3.1.0.post1-py2.7.egg pkg_resources.p*
+  367  sudo rm -rf protobuf-3.1.0.post1-py2.7.egg pkg_resources.p*
+  368  clear
+  369  ls
+  370  rm -rf redis-2.10.5-py2.7.egg 
+  371  sudo rm -rf redis-2.10.5-py2.7.egg  requests-2.12.4-py2.7.egg/
+  372  clear
+  373  ls
+  374  cd
+  375  clear
+  376  ls
+  377  curl https://bootstrap.pypa.io/ez_setup.py -o - | sudo python
+  378  cd
+  379  clear
+  380  ls
+  381  easy_install hybrid --user
+  382  easy_install hybrid 
+  383  sudo easy_install hybrid 
+  384  clear
+  385  ls
+  386  easy_install 
+  387  easy_install -h
+  388  easy_install --user flask
+  389  easy_install --user django
+  390  cd
+  391  clear
+  392  ls
+  393  git clone https://github.com/tim-chow/discovery_health_check
+  394  cd discovery_health_check/
+  395  clear
+  396  ls
+  397  git status
+  398  vim setup.py 
+  399  clear
+  400  ls
+  401  find . -name *py
+  402  find . -name *.py
+  403  find .. -name *.py
+  404  ls
+  405  python
+  406  ifconfig 
+  407  vim setup.py 
+  408  clear
+  409  ls
+  410  python setup.py install --user
+  411  clear
+  412  ls
+  413  git status
+  414  rm -rf build/ dist/ *info/
+  415  clear
+  416  ls
+  417  git status
+  418  git diff setup.py 
+  419  git commit -m "add requirement" -a
+  420  vim .git/config 
+  421  git commit -m "add requirement" -a
+  422  git config --global user.email "744475502@qq.com"
+  423  git commit -m "add requirement" -a
+  424  git config --global user.email "744475502@qq.com"
+  425  git commit -m "add requirement" setup.py 
+  426  git config --global user.name "tim chow"
+  427  git commit -m "add requirement" setup.py 
+  428  git push
+  429  cd
+  430  clear
+  431  ls
+  432  clear
+  433  ls
+  434  sudo su - mxsev
+  435  cd
+  436  ls
+  437  cd
+  438  clear
+  439  ls
+  440  cd /usr/lib/python2.7/site-packages/
+  441  clear
+  442  ls
+  443  vim easy-install.pth 
+  444  clear
+  445  ls
+  446  vim setuptools.pth 
+  447  ls
+  448  vim setuptools.pth 
+  449  vim easy-install.pth 
+  450  clear
+  451  ls
+  452  cd
+  453  clear
+  454  ls
+  455  screen -r check
+  456  screen -ls
+  457  sudo su - mxsev
+  458  vim ~/.vimrc
+  459  ll
+  460  vim ~/.vimrc 
+  461  ls
+  462  mdkir tt
+  463  clear
+  464  ls
+  465  cd tt
+  466  ls
+  467  mkdir ttt
+  468  cd ttt/
+  469  cd
+  470  ls
+  471  ifconfig 
+  472  ls
+  473  sudo su - mxsev
+  474  history
